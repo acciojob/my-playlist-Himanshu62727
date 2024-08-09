@@ -10,8 +10,17 @@
 .play {
 	width: 100%;
 	height: 50%;
-	border: 2px solid black;
 	background-color: white;
 	border-radius: 8px;
 	style: text-align: center;
+}
+
+.a {
+	text-decoration-line: none;
+}
+
+.play {
+	padding: 20px;
+	background-color: rgb(255, 255, 255);
+	border: 2px solid black;
 }
