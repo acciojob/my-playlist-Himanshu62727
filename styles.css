@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+.Songbox {
+	width: 100%;
+	height: 120px;
+	border: 2px solid black;
+	background-color: white;
+	border-radius: 8px;
+}
+
+.play {
+	width: 100%;
+	height: 50%;
+	border: 2px solid black;
+	background-color: white;
+	border-radius: 8px;
+	style: text-align: center;
+}
